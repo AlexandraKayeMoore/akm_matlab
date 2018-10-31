@@ -1,0 +1,3 @@
+
+MeanOF=28993.855469.3
+ nextImage=fc2_save_2018-01-10-214252-0007.tif laserStatus=3.000000

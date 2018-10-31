@@ -4,6 +4,9 @@ function [gain,freq,mode]=getAmpState(in)
 % Returns current gain, freq, and mode 
 % akm 7/5/17
 
+thisIsATest=1;
+thisIsATest=2;
+
 daqreset % Reset DAC object
 devID='Dev1'; % Set device ID
 niOI=daq.createSession('ni');
